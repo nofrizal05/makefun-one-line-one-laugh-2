@@ -1,8 +1,8 @@
 # One Line, One Laugh
 
 [![make.fun](https://make.fun/badge/u-deysumbrella-one-line-one-laugh-e0cdcda9.svg)](https://make.fun/competitions/u-deysumbrella-one-line-one-laugh-e0cdcda9)
-[![rank](https://make.fun/badge/u-deysumbrella-one-line-one-laugh-e0cdcda9/nofrizal05/makefun-one-line-one-laugh/rank.svg)](https://make.fun/competitions/u-deysumbrella-one-line-one-laugh-e0cdcda9)
-[![reward](https://make.fun/badge/u-deysumbrella-one-line-one-laugh-e0cdcda9/nofrizal05/makefun-one-line-one-laugh/reward.svg)](https://make.fun/competitions/u-deysumbrella-one-line-one-laugh-e0cdcda9)
+[![rank](https://make.fun/badge/u-deysumbrella-one-line-one-laugh-e0cdcda9/nofrizal05/makefun-one-line-one-laugh-2/rank.svg)](https://make.fun/competitions/u-deysumbrella-one-line-one-laugh-e0cdcda9)
+[![reward](https://make.fun/badge/u-deysumbrella-one-line-one-laugh-e0cdcda9/nofrizal05/makefun-one-line-one-laugh-2/reward.svg)](https://make.fun/competitions/u-deysumbrella-one-line-one-laugh-e0cdcda9)
 
 Entry for the [make.fun](https://make.fun) competition **One Line, One Laugh** (`u-deysumbrella-one-line-one-laugh-e0cdcda9`).
 
